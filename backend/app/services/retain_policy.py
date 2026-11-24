@@ -1,4 +1,4 @@
-"""保留策略领域服务：回收约束校验、策略匹配、保留阈值判定。"""
+"""保留策略领域服务：回收约束校验、策略匹配、保留阈值判定，产出策略条目数据集。"""
 from __future__ import annotations
 
 from typing import Any

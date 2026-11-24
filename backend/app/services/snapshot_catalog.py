@@ -1,4 +1,4 @@
-"""快照编目领域服务：编目状态推进、版本序号连续性检查、超期筛选。"""
+"""快照编目领域服务：编目状态推进、版本序号连续性检查、超期筛选，产出快照条目数据集。"""
 from __future__ import annotations
 
 from typing import Any

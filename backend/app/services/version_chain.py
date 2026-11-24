@@ -1,4 +1,4 @@
-"""版本链领域服务：前后继校验、断裂检测、链上版本遍历。"""
+"""版本链领域服务：前后继校验、断裂检测、链上版本遍历，产出链条目数据集。"""
 from __future__ import annotations
 
 from typing import Any

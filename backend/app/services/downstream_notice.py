@@ -1,4 +1,4 @@
-"""下游通知领域服务：通知状态追踪、催办、确认率统计。"""
+"""下游通知领域服务：通知状态追踪、催办、确认率统计，产出通知记录数据集。"""
 from __future__ import annotations
 
 from typing import Any

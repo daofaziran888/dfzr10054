@@ -1,4 +1,4 @@
-"""一致性核查领域服务：版本对校验、污染判定、差异阈值告警。"""
+"""一致性核查领域服务：版本对校验、污染判定、差异阈值告警，产出核查报告数据集。"""
 from __future__ import annotations
 
 from typing import Any

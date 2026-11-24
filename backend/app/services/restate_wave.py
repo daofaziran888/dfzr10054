@@ -1,4 +1,4 @@
-"""重述波次领域服务：波次拆分、版本分配、波次状态汇总、跳过版本计数。"""
+"""重述波次领域服务：波次拆分、版本分配、波次状态汇总、跳过版本计数，产出波次批次数据集。"""
 from __future__ import annotations
 
 from typing import Any

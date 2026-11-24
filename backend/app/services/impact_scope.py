@@ -1,4 +1,4 @@
-"""影响范围领域服务：传播BFS、影响半径计算、传播深度统计。"""
+"""影响范围领域服务：传播BFS、影响半径计算、传播深度统计，产出范围清单数据集。"""
 from __future__ import annotations
 
 from collections import deque

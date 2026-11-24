@@ -1,4 +1,4 @@
-"""回收记录领域服务：回收可执行性校验、回收统计、释放容量汇总。"""
+"""回收记录领域服务：回收可执行性校验、回收统计、释放容量汇总，产出回收明细数据集。"""
 from __future__ import annotations
 
 from typing import Any

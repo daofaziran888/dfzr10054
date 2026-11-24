@@ -1,4 +1,4 @@
-"""重述单领域服务：重述范围解析、执行中版本统计、重述原因分类。"""
+"""重述单领域服务：重述范围解析、执行中版本统计、重述原因分类，产出单据条目数据集。"""
 from __future__ import annotations
 
 from typing import Any

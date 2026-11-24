@@ -1,4 +1,4 @@
-"""审计轨迹领域服务：轨迹追加查询、操作类型统计、存疑轨迹筛选。"""
+"""审计轨迹领域服务：轨迹追加查询、操作类型统计、存疑轨迹筛选，产出轨迹明细数据集。"""
 from __future__ import annotations
 
 from typing import Any

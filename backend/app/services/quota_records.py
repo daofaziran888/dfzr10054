@@ -1,4 +1,4 @@
-"""配额台账领域服务：容量分配、余量检查、超支告警。"""
+"""配额台账领域服务：容量分配、余量检查、超支告警，产出台账条目数据集。"""
 from __future__ import annotations
 
 from typing import Any

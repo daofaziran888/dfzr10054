@@ -1,4 +1,4 @@
-"""模式演进领域服务：兼容性判定、演出版本追踪、字段变更统计。"""
+"""模式演进领域服务：兼容性判定、演出版本追踪、字段变更统计，产出演进记录数据集。"""
 from __future__ import annotations
 
 from typing import Any

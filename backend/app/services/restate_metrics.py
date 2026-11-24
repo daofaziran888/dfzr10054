@@ -1,4 +1,4 @@
-"""重述指标领域服务：及时率计算、平均耗时、通知确认率追踪。"""
+"""重述指标领域服务：及时率计算、平均耗时、通知确认率追踪，产出指标快照数据集。"""
 from __future__ import annotations
 
 from typing import Any

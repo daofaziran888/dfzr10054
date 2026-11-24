@@ -1,4 +1,4 @@
-"""分支比对领域服务：差异条数统计、差异阈值告警、版本对校验。"""
+"""分支比对领域服务：差异条数统计、差异阈值告警、版本对校验，产出比对记录数据集。"""
 from __future__ import annotations
 
 from typing import Any

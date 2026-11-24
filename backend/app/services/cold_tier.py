@@ -1,4 +1,4 @@
-"""冷藏层级领域服务：转层判断、回取代价评估、层级分布统计。"""
+"""冷藏层级领域服务：转层判断、回取代价评估、层级分布统计，产出层级条目数据集。"""
 from __future__ import annotations
 
 from typing import Any
