@@ -1,4 +1,4 @@
-"""发布闸口领域服务：检查项计分、闸口判定、被拦截版本清单。"""
+"""发布闸口领域服务：检查项计分后产出闸口指标数据集，裁决版本对外可见性。"""
 from __future__ import annotations
 
 from typing import Any

@@ -1,4 +1,4 @@
-"""回滚点领域服务：点位设置、恢复触发、可用点查找。"""
+"""回滚点领域服务：在关键版本快照上设置点位，产出点位条目数据集供失败恢复校验。"""
 from __future__ import annotations
 
 from typing import Any

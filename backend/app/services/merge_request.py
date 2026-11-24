@@ -1,4 +1,4 @@
-"""合并请求领域服务：合并策略校验、版本冲突检测、合并统计。"""
+"""合并请求领域服务：校验源版本与目标版本的冲突，产出请求单明细数据集。"""
 from __future__ import annotations
 
 from typing import Any

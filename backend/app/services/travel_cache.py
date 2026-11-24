@@ -1,4 +1,4 @@
-"""时点缓存领域服务：版本落后检测、缓存刷新、过期驱逐。"""
+"""时点缓存领域服务：校验缓存版本是否落后，产出缓存条目数据集并存储命中计数。"""
 from __future__ import annotations
 
 from typing import Any

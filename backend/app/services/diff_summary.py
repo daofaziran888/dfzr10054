@@ -1,4 +1,4 @@
-"""差异摘要领域服务：差异阈值告警、净差异聚合、异常摘要清单。"""
+"""差异摘要领域服务：聚合重述前后的记录条数，产出差异明细数据集供下游核对。"""
 from __future__ import annotations
 
 from typing import Any
