@@ -1,5 +1,9 @@
 # 2026-11-15 在 Python 3.13 干净环境实际安装并通过全栈 E2E 的完整锁定版本。
 annotated-doc==0.0.6
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+pytest==8.4.2
 annotated-types==0.8.0
 anyio==4.16.0
 click==8.5.1
