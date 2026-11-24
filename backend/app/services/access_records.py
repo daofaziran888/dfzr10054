@@ -1,4 +1,4 @@
-"""访问台账领域服务：访问审计、敏感用途检查、访问统计，产出访问明细数据集。"
+"""访问台账领域服务：访问审计、敏感用途检查、访问统计，产出访问明细数据集。"""
 from __future__ import annotations
 
 from typing import Any
